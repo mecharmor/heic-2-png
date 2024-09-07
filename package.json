@@ -1,0 +1,14 @@
+{
+  "name": "heic-2-png",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "transform": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "heic-convert": "^2.1.0"
+  }
+}
